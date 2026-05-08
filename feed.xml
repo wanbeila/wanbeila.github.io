@@ -6,7 +6,16 @@
     <description>Welcome to Wohmai&#39;s Site</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:18:32 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:21:32 +0800</lastBuildDate>
     <atom:link href="https://wanbeila.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>开始</title>
+      <link>https://wanbeila.github.io/post/kai-shi/</link>
+      <guid isPermaLink="true">https://wanbeila.github.io/post/kai-shi/</guid>
+      <pubDate>Fri, 08 May 2026 15:18:57 +0800</pubDate>
+      <description><![CDATA[<p>这是开始记录的第一篇，不知道为什么要有这个说法，可能是所谓仪式感，估计写完这篇就没了<br />
+谢谢</p>
+]]></description>
+    </item>
   </channel>
 </rss>

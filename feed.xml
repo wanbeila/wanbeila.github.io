@@ -6,8 +6,20 @@
     <description>Welcome to Wohmai&#39;s Site</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:21:32 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 15:27:06 +0800</lastBuildDate>
     <atom:link href="https://wanbeila.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>流程</title>
+      <link>https://wanbeila.github.io/post/liu-cheng/</link>
+      <guid isPermaLink="true">https://wanbeila.github.io/post/liu-cheng/</guid>
+      <pubDate>Sat, 09 May 2026 15:25:51 +0800</pubDate>
+      <description><![CDATA[<p>文本生成原型<br />
+<a href="https://stitch.withgoogle.com/">https://stitch.withgoogle.com/</a><br />
+生成后，导入figma<br />
+通过MCP接入cursor<br />
+完成编码</p>
+]]></description>
+    </item>
     <item>
       <title>开始</title>
       <link>https://wanbeila.github.io/post/kai-shi/</link>
